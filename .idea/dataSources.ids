@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails samplet_app: development" uuid="d5aa6bd3-47b3-4671-9498-e78ed2543a7b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails samplet_app: test" uuid="8394f824-2215-43d7-b1a6-c3c8ada85071">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails samplet_app: production" uuid="c7353f01-f1d1-4275-9934-7268b4c2b3d0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
