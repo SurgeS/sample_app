@@ -54,3 +54,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#to hash the password
+gem 'bcrypt-ruby', '3.1.2'
