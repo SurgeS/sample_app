@@ -45,19 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="544">
+            <state line="29" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.31805158" vertical-offset="382" max-vertical-offset="1292">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="6" selection-start="425" selection-end="425" vertical-scroll-proportion="0.048710603" vertical-offset="187" max-vertical-offset="629">
+            <state line="12" column="6" selection-start="425" selection-end="425" vertical-scroll-proportion="-0.65384614" vertical-offset="187" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -455,7 +455,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -709,16 +709,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="544">
+        <state line="12" column="6" selection-start="425" selection-end="425" vertical-scroll-proportion="-0.65384614" vertical-offset="187" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="6" selection-start="425" selection-end="425" vertical-scroll-proportion="0.048710603" vertical-offset="187" max-vertical-offset="629">
+        <state line="29" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.31805158" vertical-offset="382" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>
