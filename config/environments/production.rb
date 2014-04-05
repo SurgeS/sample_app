@@ -6,6 +6,10 @@ SampletApp::Application.configure do
   config.assets.compile = true
   config.assets.digest = true
 
+  # Force all access to the app over SSL, use Strict-Transport-Security,
+  # and use secure cookies.
+  config.force_ssl = true
+  
   # Code is not reloaded between requests.
   #config.cache_classes = true
 
